@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Contrasenas">
-        <activity android:name=".registrar"></activity>
         <activity android:name=".Aplicacion" />
         <activity android:name=".MainActivity">
             <intent-filter>

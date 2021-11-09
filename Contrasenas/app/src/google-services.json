@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271442529251",
+    "project_id": "aplicacion-8ac8b",
+    "storage_bucket": "aplicacion-8ac8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271442529251:android:b5f68b8d2e2f34b6146ed6",
+        "android_client_info": {
+          "package_name": "com.example.contrasenas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271442529251-v7uq1kpfn32hhgl0rre0vmi7thnu4rii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJNTDq3igHotXQjCGDbHctdkOyBJehHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271442529251-v7uq1kpfn32hhgl0rre0vmi7thnu4rii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
